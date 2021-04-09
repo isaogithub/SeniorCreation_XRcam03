@@ -6,6 +6,9 @@ csps40608a@gmail.com
 ### 林肇勳(isao)
 ### 遲冠宇
 
+#Abstract
+Virtual Youtuber, has been popular since 2016, Japanese virtual Youtuber [A.I.] has even create a new word [Vtuber]. As the name "virtual", the performer doesn't needs to shows up on the LIVE show, they create their own Live 2D character, some of them are not even using a human character. It makes them more different than other Youtuber or even the professional performer on TV show. Internet make anyone can be superstar, but it's sometime dangerous to became famous, but Vtuber is different, Live 2D can protect their performer even when they are b famous, they can still live like a normal person, so there is more and more performers choose to became a Vtuber .< Virtual give people more imagination, but there is more problem because they are virtual, this paper is going to talk about the problem we found and the way how we solve it.
+
 # Function
 ### Zoom
 【Zoom】Has been useing in cenima photography for a long time, we control the zoom in Unity virtual camera by using variable resistance and Arduino uno, can make any photographer easy to use.
